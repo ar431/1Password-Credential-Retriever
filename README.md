@@ -5,7 +5,7 @@ A Python script to securely retrieve usernames and passwords from 1Password usin
 ## Usage
 
 ```sh
-python script.py <op_path> <item_name>
+python3 main.py <op_path> <item_name>
 ```
 ### Parameters
 <op_path>: The file path to the op executable.
